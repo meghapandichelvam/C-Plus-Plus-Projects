@@ -1,0 +1,12 @@
+﻿  Game.cpp
+E:\gitHubProjects\C-plus-plus-Projects\Precise Click\SfmlShooter\Game.cpp(190,27): warning C4018:  '<': signed/unsigned mismatch
+E:\gitHubProjects\C-plus-plus-Projects\Precise Click\SfmlShooter\Game.cpp(205,20): warning C4018:  '<': signed/unsigned mismatch
+E:\gitHubProjects\C-plus-plus-Projects\Precise Click\SfmlShooter\Game.cpp(234,28): warning C4244:  '+=': conversion from 'float' to 'unsigned int', possible loss of data
+E:\gitHubProjects\C-plus-plus-Projects\Precise Click\SfmlShooter\Game.cpp(236,27): warning C4244:  '+=': conversion from 'float' to 'unsigned int', possible loss of data
+E:\gitHubProjects\C-plus-plus-Projects\Precise Click\SfmlShooter\Game.cpp(238,27): warning C4244:  '+=': conversion from 'float' to 'unsigned int', possible loss of data
+E:\gitHubProjects\C-plus-plus-Projects\Precise Click\SfmlShooter\Game.cpp(240,27): warning C4244:  '+=': conversion from 'float' to 'unsigned int', possible loss of data
+E:\gitHubProjects\C-plus-plus-Projects\Precise Click\SfmlShooter\Game.cpp(242,27): warning C4244:  '+=': conversion from 'float' to 'unsigned int', possible loss of data
+  Main.cpp
+  Generating Code...
+E:\gitHubProjects\C-plus-plus-Projects\Precise Click\SfmlShooter\Game.cpp(244,27): warning C4244:  '+=': conversion from 'float' to 'unsigned int', possible loss of data
+  SfmlShooter.vcxproj -> E:\gitHubProjects\C-plus-plus-Projects\Precise Click\Debug\SfmlShooter.exe

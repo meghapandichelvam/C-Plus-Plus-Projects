@@ -1,0 +1,5 @@
+﻿  Game.cpp
+E:\sfml\SFMLShooter1\SFMLShooter1\Game.cpp(171,16): warning C4018:  '<': signed/unsigned mismatch
+E:\sfml\SFMLShooter1\SFMLShooter1\Game.cpp(180,25): warning C4244:  '+=': conversion from 'float' to 'unsigned int', possible loss of data
+E:\sfml\SFMLShooter1\SFMLShooter1\Game.cpp(192,25): warning C4244:  '-=': conversion from 'float' to 'int', possible loss of data
+  SFMLShooter1.vcxproj -> E:\sfml\SFMLShooter1\Debug\SFMLShooter1.exe
